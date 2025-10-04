@@ -33,4 +33,4 @@ Enjoy!
 
 ---
 
-[MusicDJ.png](https://raw.githubusercontent.com/Ankedeshuqin/MusicDJ-Recreation/refs/heads/main/MusicDJ.png)
+![MusicDJ.png](https://raw.githubusercontent.com/Ankedeshuqin/MusicDJ-Recreation/refs/heads/main/MusicDJ.png)
