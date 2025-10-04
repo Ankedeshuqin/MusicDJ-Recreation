@@ -29,8 +29,8 @@ Enjoy!
 
 ## Download executable
 
-- [MusicDJ.exe](blob:https://github.com/c7efb04b-6dd1-416d-89ea-faafdd45f1b5)
+- [MusicDJ.exe](https://raw.githubusercontent.com/Ankedeshuqin/MusicDJ-Recreation/refs/heads/main/Executable/MusicDJ.exe)
 
 ---
 
-[MusicDJ.png](https://github.com/Ankedeshuqin/MusicDJ-Recreation/blob/main/MusicDJ.png)
+[MusicDJ.png](https://raw.githubusercontent.com/Ankedeshuqin/MusicDJ-Recreation/refs/heads/main/MusicDJ.png)
