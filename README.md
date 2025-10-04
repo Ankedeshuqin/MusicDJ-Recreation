@@ -1,6 +1,6 @@
 # MusicDJ Recreation
 
-This is a Windows recreation of the **MusicDJ** app found on old Sony Ericsson phones.
+This is a Windows recreation I made of the **MusicDJ** app found on old Sony Ericsson phones.
 
 You can create melodies, open created melodies, save melodies, play melodies, and anything else you can do on the original MusicDJ app. You can save the melody as either Sony Ericsson MusicDJ MIDI file, or as standard MIDI file.
 
